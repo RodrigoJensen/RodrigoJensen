@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 👋
 
-<!--
-**RodrigoJensen/RodrigoJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu Nome é Rodrigo Jensen
+- Estou mediando alunos de ensino médio
+  
+Utilizamos a linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Para informações rodrigojensen@prof.educacao.sp.gov.br
+
+
+https://media1.tenor.com/m/wI_Dti-W8MEAAAAC/%D0%BB%D0%B5%D1%81.gif
